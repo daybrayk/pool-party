@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: PersistentDataSO
+  m_EditorClassIdentifier: 
+  m_GroupName: PersistentDataSO
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 92fb74e9c46b35747bcdcede92660b92
+  m_SerializeEntries:
+  - m_GUID: 2d5283b4c09472442b3b49cb60ff3d8f
+    m_Address: Assets/_Pool Party/SO/Persistent Player Runtime Collection.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 158c721a18c391f448f340ba60583195, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: f40b3b5f041073b4cb9b54b7c53d83d3, type: 2}
+    - {fileID: 11400000, guid: 1e648c4f311f38541add9ca9b3b1c4e4, type: 2}

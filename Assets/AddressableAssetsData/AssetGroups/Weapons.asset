@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Weapons
+  m_EditorClassIdentifier: 
+  m_GroupName: Weapons
+  m_Data:
+    m_SerializedData: []
+  m_GUID: a4987ba4a1585e542a8710821b49f93a
+  m_SerializeEntries:
+  - m_GUID: 28c40ed1b46b3fa4aaf9e51dfcbcd53f
+    m_Address: Assets/_Pool Party/Prefabs/Weapons/Waterballoon Projectile.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2610859b3695f0145920a9b230b984d3
+    m_Address: Assets/_Pool Party/Prefabs/Weapons/Super Soaker Projectile.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 234b149339ce8db49857dfd5e7949b5b
+    m_Address: Assets/_Pool Party/Prefabs/Weapons/Shotgun Projectile.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3c059d7fcb80af14bb91f4b34a6c7fbf
+    m_Address: Assets/_Pool Party/Prefabs/Weapons/Basic Projectile.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 641066aad36e9954cac4b24d8e2164b2
+    m_Address: Assets/_Pool Party/Prefabs/Weapons/Shotgun.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b1f0374f22583c64f91ca054d2e54442
+    m_Address: Assets/_Pool Party/Prefabs/Weapons/Pistol.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d027f3011e807f64aac984d2ac64ac8e
+    m_Address: Assets/_Pool Party/Prefabs/Weapons/Waterballoon Projectile Man Hunt.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9a6ea9e756742334283e63db5c6684b4
+    m_Address: Assets/_Pool Party/Prefabs/Weapons/Super Soaker.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 158c721a18c391f448f340ba60583195, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 06dd2dcb8fb78e145b3783a4a55dab70, type: 2}
+    - {fileID: 11400000, guid: 8b868767bd1d3ec4bb95769f1f3ffed5, type: 2}

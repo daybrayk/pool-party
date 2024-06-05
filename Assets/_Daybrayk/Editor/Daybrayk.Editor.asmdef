@@ -1,0 +1,17 @@
+{
+    "name": "Daybrayk.Editor",
+    "references": [
+        "GUID:8c9ba3b6d59f60d4ba11b8ba4dba0438"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

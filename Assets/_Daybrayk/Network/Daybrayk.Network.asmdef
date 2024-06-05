@@ -1,0 +1,19 @@
+{
+    "name": "Daybrayk.Network",
+    "rootNamespace": "",
+    "references": [
+        "GUID:8c9ba3b6d59f60d4ba11b8ba4dba0438",
+        "GUID:3b8ed52f1b5c64994af4c4e0aa4b6c4b",
+        "GUID:1491147abca9d7d4bb7105af628b223e",
+        "GUID:9f4f5bf029cebb64f983b7bdc29f62a1"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

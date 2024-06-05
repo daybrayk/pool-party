@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: NeutralObjects
+  m_EditorClassIdentifier: 
+  m_GroupName: NeutralObjects
+  m_Data:
+    m_SerializedData: []
+  m_GUID: df6b008c7c58c12409146b4424fb87c7
+  m_SerializeEntries:
+  - m_GUID: a4e93110840be0940a9f56b8ac5ea010
+    m_Address: Assets/_Pool Party/Prefabs/Neutral Objects/Dryer Base.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b81cd5aef4ba3b2479d0352db4687b19
+    m_Address: Assets/_Pool Party/Prefabs/Neutral Objects/Fire Hydrant.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1e1f4b6c6d807b34f87d75d36ac2856c
+    m_Address: Assets/_Pool Party/Prefabs/Neutral Objects/Sprinkler.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fbc3e490c6761c14a9b704284387bacb
+    m_Address: Assets/_Pool Party/Prefabs/Neutral Objects/Water Drop.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 158c721a18c391f448f340ba60583195, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 40eff22e0a679fc47a7682001eb6a930, type: 2}
+    - {fileID: 11400000, guid: b2476e74131fba348aa12b96c8d80214, type: 2}

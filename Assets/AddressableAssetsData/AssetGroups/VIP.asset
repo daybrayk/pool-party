@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: VIP
+  m_EditorClassIdentifier: 
+  m_GroupName: VIP
+  m_Data:
+    m_SerializedData: []
+  m_GUID: d37aef2d18b71df4fb7f4087f8f24a5a
+  m_SerializeEntries:
+  - m_GUID: 4c421229cc8b38041a7f9a30bc71c569
+    m_Address: Assets/_Pool Party/Prefabs/Characters/VIP Blue Avatar.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ca48b7820ec656f4690af4e0f59eb130
+    m_Address: Assets/_Pool Party/Prefabs/Characters/VIP Green Avatar.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 158c721a18c391f448f340ba60583195, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: ba352d783aae8aa4385529e051f28c41, type: 2}
+    - {fileID: 11400000, guid: 3bbdf3cde0bb0f646ad68446b379042b, type: 2}

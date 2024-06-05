@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: FreeForAll
+  m_EditorClassIdentifier: 
+  m_GroupName: FreeForAll
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 650e559dcd209034283f64eaea8f84b9
+  m_SerializeEntries:
+  - m_GUID: bb108de71530e45429c8cbb5989ca1f0
+    m_Address: Assets/_Pool Party/Prefabs/Characters/Player Avatar.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 158c721a18c391f448f340ba60583195, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 42f7791d0483f9241aefc6b7ff8e13aa, type: 2}
+    - {fileID: 11400000, guid: 188f70c0f5ce19542b395f8a0e5f4355, type: 2}

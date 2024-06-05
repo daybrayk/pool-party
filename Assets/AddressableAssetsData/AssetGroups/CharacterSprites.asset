@@ -1,0 +1,505 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: CharacterSprites
+  m_EditorClassIdentifier: 
+  m_GroupName: CharacterSprites
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 0feb4ce8f31b0de4d9a23787d2fb332a
+  m_SerializeEntries:
+  - m_GUID: fe1280e7ecfe6934eb6fd1e530876541
+    m_Address: Assets/Art/Top Down/Character/Back - Idle/Back - Idle_003.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: edd20e8f6dca9b24b993a5bd83b87cab
+    m_Address: Assets/Art/Top Down/Character/Back - Idle/Back - Idle_009.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8d6bf708b1f51124386ae8c38cc5333b
+    m_Address: Assets/Art/Top Down/Character/Back - Idle/Back - Idle_007.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7b58d61f77b45574889f104f486cf513
+    m_Address: Assets/Art/Top Down/Character/Back - Idle/Back - Idle_002.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ea8e2a5d504bfc349967462d6cf08ad5
+    m_Address: Assets/Art/Top Down/Character/Back - Idle/Back - Idle_010.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c98d2636064674842b06e67141677d84
+    m_Address: Assets/Art/Top Down/Character/Back - Idle/Back - Idle_011.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 37b780032d66a334cbb69ddc4e278a7a
+    m_Address: Assets/Art/Top Down/Character/Back - Idle/Back - Idle_004.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7667f3a3f5a40c14cb9aed4f170fc4dc
+    m_Address: Assets/Art/Top Down/Character/Back - Idle/Back - Idle_006.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 26c07dba74808864195e4457fedde195
+    m_Address: Assets/Art/Top Down/Character/Back - Idle/Back - Idle_001.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b233f660e0a4d64428b064dbcaac1743
+    m_Address: Assets/Art/Top Down/Character/Back - Idle/Back - Idle_000.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a1e9f1115fb19144c94070ee2709d1a0
+    m_Address: Assets/Art/Top Down/Character/Back - Idle/Back - Idle_005.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 017554a491b15b844a29240c5141b7a4
+    m_Address: Assets/Art/Top Down/Character/Back - Idle/Back - Idle_008.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5bc19f8c4c58e374581a5f46c6aede8c
+    m_Address: Assets/Art/Top Down/Character/Back - Walking/Back - Walking_003.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5bb0668c4745f944b97fd1598ddea898
+    m_Address: Assets/Art/Top Down/Character/Back - Walking/Back - Walking_009.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1bcac239bb95c1b45ade125ac570a501
+    m_Address: Assets/Art/Top Down/Character/Back - Walking/Back - Walking_000.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9a2baa75290505d47baf3b9d60aae5b2
+    m_Address: Assets/Art/Top Down/Character/Back - Walking/Back - Walking_012.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0961d0749df779f40a2691d05df5cb1b
+    m_Address: Assets/Art/Top Down/Character/Back - Walking/Back - Walking_001.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f8df3e591e07edb41b79ff50a3751a75
+    m_Address: Assets/Art/Top Down/Character/Back - Walking/Back - Walking_010.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 36dc49381777a0b4c809b9339144f781
+    m_Address: Assets/Art/Top Down/Character/Back - Walking/Back - Walking_016.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 165b25d832aed7744bd63efd8156aada
+    m_Address: Assets/Art/Top Down/Character/Back - Walking/Back - Walking_008.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9531e2b35fa27b84ba6c61cf2691d2a6
+    m_Address: Assets/Art/Top Down/Character/Back - Walking/Back - Walking_005.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 85af5577ff340004fbe68ff06a5e3a67
+    m_Address: Assets/Art/Top Down/Character/Back - Walking/Back - Walking_011.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c494c19dfeee8b642b99891ea12871d4
+    m_Address: Assets/Art/Top Down/Character/Back - Walking/Back - Walking_006.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 64742b1509ccee0408ca6cfadeb89106
+    m_Address: Assets/Art/Top Down/Character/Back - Walking/Back - Walking_013.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 04d1eec5966c6404d8ecffcbd84c5afc
+    m_Address: Assets/Art/Top Down/Character/Back - Walking/Back - Walking_002.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4eac93dbe72f5ec4a8c31f598fb005c6
+    m_Address: Assets/Art/Top Down/Character/Back - Walking/Back - Walking_014.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: cecbc1e091dc65d4283d93e544ddd23e
+    m_Address: Assets/Art/Top Down/Character/Back - Walking/Back - Walking_017.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3f36af967dd933d4793741548a174723
+    m_Address: Assets/Art/Top Down/Character/Back - Walking/Back - Walking_004.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6f6d8854a8e5bad4188e544205b1fc11
+    m_Address: Assets/Art/Top Down/Character/Back - Walking/Back - Walking_007.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bfad5f37d23d8c94384f8a37abfa4680
+    m_Address: Assets/Art/Top Down/Character/Back - Walking/Back - Walking_015.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 70dcf6e34aaf3c04ab2c9f685367db87
+    m_Address: Assets/Art/Top Down/Character/Front - Idle/Front - Idle_000.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b168548c98bde95428b45bc82e16eb58
+    m_Address: Assets/Art/Top Down/Character/Front - Idle/Front - Idle_001.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4c562789b123cc34186539dccf0e400f
+    m_Address: Assets/Art/Top Down/Character/Front - Idle/Front - Idle_002.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3cb1ebf026df8654a99ee50588ee3bdf
+    m_Address: Assets/Art/Top Down/Character/Front - Idle/Front - Idle_003.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 03555baacdde3d54fae8a6ad6995c10c
+    m_Address: Assets/Art/Top Down/Character/Front - Idle/Front - Idle_004.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 777464e7bc95e0e4ca2d39a55bf375a2
+    m_Address: Assets/Art/Top Down/Character/Front - Idle/Front - Idle_005.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e40bd2e2f662bb5438188d26cfa43574
+    m_Address: Assets/Art/Top Down/Character/Front - Idle/Front - Idle_006.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 776a0647ea5a1e745813d3615c76a0d1
+    m_Address: Assets/Art/Top Down/Character/Front - Idle/Front - Idle_007.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 813ccc9f38b20a742a40b766321b52b1
+    m_Address: Assets/Art/Top Down/Character/Front - Idle/Front - Idle_008.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4347c6ab23516ac41bd066a18530d196
+    m_Address: Assets/Art/Top Down/Character/Front - Idle/Front - Idle_009.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 73b7be379d3cc0048bab6dd0b35441f1
+    m_Address: Assets/Art/Top Down/Character/Front - Idle/Front - Idle_010.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ea3b4a018af58e94ca98eef86f3b1727
+    m_Address: Assets/Art/Top Down/Character/Front - Idle/Front - Idle_011.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b9adaeb83933de346b9aa71168c1a465
+    m_Address: Assets/Art/Top Down/Character/Front - Walking/Front - Walking_000.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bd671e6b52406e54993295c9b052fa31
+    m_Address: Assets/Art/Top Down/Character/Front - Walking/Front - Walking_001.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8e516a4149c3df34b87b55d04c5bf218
+    m_Address: Assets/Art/Top Down/Character/Front - Walking/Front - Walking_002.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bb0dec50472387b47aaccf160de9ea0e
+    m_Address: Assets/Art/Top Down/Character/Front - Walking/Front - Walking_003.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3c52b72cab1fd3646a0504a90bc0ca25
+    m_Address: Assets/Art/Top Down/Character/Front - Walking/Front - Walking_004.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c5559c7fe1c7b684bb7c04094d1de52e
+    m_Address: Assets/Art/Top Down/Character/Front - Walking/Front - Walking_005.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8459b0f67c7bbce45831b5f66d2371f7
+    m_Address: Assets/Art/Top Down/Character/Front - Walking/Front - Walking_006.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5a4076dad978c294c9997fe9dd73cf51
+    m_Address: Assets/Art/Top Down/Character/Front - Walking/Front - Walking_007.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a64889790bf97a44386b4aa806b80721
+    m_Address: Assets/Art/Top Down/Character/Front - Walking/Front - Walking_008.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 09c60dfc67403b74dba1e98fcd32bcb5
+    m_Address: Assets/Art/Top Down/Character/Front - Walking/Front - Walking_009.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 52660d7ab6eddf14a900e5238016f1fb
+    m_Address: Assets/Art/Top Down/Character/Front - Walking/Front - Walking_010.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e5c21ea660712b94f9bf17ffa553a472
+    m_Address: Assets/Art/Top Down/Character/Front - Walking/Front - Walking_011.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 25cf939e7b7bdb6459161fc9be558552
+    m_Address: Assets/Art/Top Down/Character/Front - Walking/Front - Walking_012.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f2c8681e0f70bcd4292e75595b9e626b
+    m_Address: Assets/Art/Top Down/Character/Front - Walking/Front - Walking_013.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 48faa9767b99ab9408d63953eea5b812
+    m_Address: Assets/Art/Top Down/Character/Front - Walking/Front - Walking_014.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c47f73178e0ee3b47ab141eb220a8727
+    m_Address: Assets/Art/Top Down/Character/Front - Walking/Front - Walking_015.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 90afaa864a88686428abfc812db5f167
+    m_Address: Assets/Art/Top Down/Character/Front - Walking/Front - Walking_016.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f0f22c1cd14ff5445bcdf0bc6df6f3da
+    m_Address: Assets/Art/Top Down/Character/Front - Walking/Front - Walking_017.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 15a401e24c4d2c54fbd0b70a0b263172
+    m_Address: Assets/Art/Top Down/Character/Left - Idle/Left - Idle_000.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0bfbae75fd0e64740a92ad52c359f91a
+    m_Address: Assets/Art/Top Down/Character/Left - Idle/Left - Idle_001.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6fc58fd4dfea20e42ac55cb77ffd4971
+    m_Address: Assets/Art/Top Down/Character/Left - Idle/Left - Idle_002.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: af1264f40c1bf5c45b10b364162cdde7
+    m_Address: Assets/Art/Top Down/Character/Left - Idle/Left - Idle_003.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4106cd26e16b6a94488d3e2a03fa1445
+    m_Address: Assets/Art/Top Down/Character/Left - Idle/Left - Idle_004.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 595b4a281d5f41a47aca7cef09a15289
+    m_Address: Assets/Art/Top Down/Character/Left - Idle/Left - Idle_005.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 869941ed991e68f40b79841f98863e0b
+    m_Address: Assets/Art/Top Down/Character/Left - Idle/Left - Idle_006.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3def1cbb592c51344abba27ba5a9ac13
+    m_Address: Assets/Art/Top Down/Character/Left - Idle/Left - Idle_007.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 10b4df68f41bac94182433aefefc4485
+    m_Address: Assets/Art/Top Down/Character/Left - Idle/Left - Idle_008.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 30fcc1f3aeb0ef547a2d9f8fd5e45c45
+    m_Address: Assets/Art/Top Down/Character/Left - Idle/Left - Idle_009.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 42e73e47fe3889141803de5cba19e43b
+    m_Address: Assets/Art/Top Down/Character/Left - Idle/Left - Idle_010.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 262397818679d8f488e52144221e460d
+    m_Address: Assets/Art/Top Down/Character/Left - Idle/Left - Idle_011.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0ccc4dcf48f4d1e4f9d643bf4eeded90
+    m_Address: Assets/Art/Top Down/Character/Left - Walking/Left - Walking_000.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e5ac1f1836515a643952e6786bca277c
+    m_Address: Assets/Art/Top Down/Character/Left - Walking/Left - Walking_001.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c068c11a24db5b34588ca354f782977a
+    m_Address: Assets/Art/Top Down/Character/Left - Walking/Left - Walking_002.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e97a06740ee0894448a963536a220fca
+    m_Address: Assets/Art/Top Down/Character/Left - Walking/Left - Walking_003.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 89683e8ff64cfd544bcde32f3e04fd4f
+    m_Address: Assets/Art/Top Down/Character/Left - Walking/Left - Walking_004.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4f604e5d22505294aaa6838fce57e5b3
+    m_Address: Assets/Art/Top Down/Character/Left - Walking/Left - Walking_005.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 585303581baa362449a674e376c04bcc
+    m_Address: Assets/Art/Top Down/Character/Left - Walking/Left - Walking_006.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8536507fb7d989c45b670e82d0b43362
+    m_Address: Assets/Art/Top Down/Character/Left - Walking/Left - Walking_007.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 49a8df000d689654f90a729d26344191
+    m_Address: Assets/Art/Top Down/Character/Left - Walking/Left - Walking_008.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 788b4cd5c15a93545bca3ff3006ecabe
+    m_Address: Assets/Art/Top Down/Character/Left - Walking/Left - Walking_009.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bd3980ca0f54c94498de325b826fe4f8
+    m_Address: Assets/Art/Top Down/Character/Left - Walking/Left - Walking_010.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 37fd0fbb171f8d0479e87a8fcb6b721a
+    m_Address: Assets/Art/Top Down/Character/Left - Walking/Left - Walking_011.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ef01d08620f6b1b4191d07e98f4c7f0a
+    m_Address: Assets/Art/Top Down/Character/Left - Walking/Left - Walking_012.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b05699c26298d23419de575b544d7cb9
+    m_Address: Assets/Art/Top Down/Character/Left - Walking/Left - Walking_013.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b107d632aa588c44f82a55383de2fe71
+    m_Address: Assets/Art/Top Down/Character/Left - Walking/Left - Walking_014.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bdaad847468a0cd448fb150f5b9cba02
+    m_Address: Assets/Art/Top Down/Character/Left - Walking/Left - Walking_015.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3abf71330c4310744a84aa417525d349
+    m_Address: Assets/Art/Top Down/Character/Left - Walking/Left - Walking_016.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3d087d9c28a3c264f9f53907bc258b76
+    m_Address: Assets/Art/Top Down/Character/Left - Walking/Left - Walking_017.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5148fcfc159dbc74290407f0d9720340
+    m_Address: Assets/Art/Top Down/Character/Right - Idle/Right - Idle_000.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 25c91e2e27fd988459bd51f1f84de603
+    m_Address: Assets/Art/Top Down/Character/Right - Idle/Right - Idle_001.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 71ffe3b7c3bd20e48b090f7d0c970515
+    m_Address: Assets/Art/Top Down/Character/Right - Idle/Right - Idle_002.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 864e19f3aa9e9af47b30332b163a18dc
+    m_Address: Assets/Art/Top Down/Character/Right - Idle/Right - Idle_003.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ed6fb221d54b24d44a2e785071a1a2a7
+    m_Address: Assets/Art/Top Down/Character/Right - Idle/Right - Idle_004.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 214431417b3bfe24b8828f0f129b35ff
+    m_Address: Assets/Art/Top Down/Character/Right - Idle/Right - Idle_005.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: eaab7aa76d4c17e4989dbbac3854da59
+    m_Address: Assets/Art/Top Down/Character/Right - Idle/Right - Idle_006.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d45f2bcbb8adf5747977d9a5cd1947c9
+    m_Address: Assets/Art/Top Down/Character/Right - Idle/Right - Idle_007.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3f2b9cb86fde21e419af3546688604b2
+    m_Address: Assets/Art/Top Down/Character/Right - Idle/Right - Idle_008.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5120251ed7c70024488aaba57237d1ec
+    m_Address: Assets/Art/Top Down/Character/Right - Idle/Right - Idle_009.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: eaf72231b967ba04c91f83b1c0dec210
+    m_Address: Assets/Art/Top Down/Character/Right - Idle/Right - Idle_010.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 59590e456b14c754e8d59ed8ba8922f6
+    m_Address: Assets/Art/Top Down/Character/Right - Idle/Right - Idle_011.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ad0cef8c76c5246448a952263f3e0e6f
+    m_Address: Assets/Art/Top Down/Character/Right - Walking/Right - Walking_000.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 67b9268af599d7a4e8fadf3c9574d8e4
+    m_Address: Assets/Art/Top Down/Character/Right - Walking/Right - Walking_001.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1ac522c007d071048be673e44a4dca96
+    m_Address: Assets/Art/Top Down/Character/Right - Walking/Right - Walking_002.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 88fe05e7ed40d22438286791619d0962
+    m_Address: Assets/Art/Top Down/Character/Right - Walking/Right - Walking_003.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2ee1d2db0d747f340b88c220bab750b5
+    m_Address: Assets/Art/Top Down/Character/Right - Walking/Right - Walking_004.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9707f7445dd812e46885682957099e4e
+    m_Address: Assets/Art/Top Down/Character/Right - Walking/Right - Walking_005.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: eb7c3d7700547204aa2dc8997df82f6a
+    m_Address: Assets/Art/Top Down/Character/Right - Walking/Right - Walking_006.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 869fa95c158eef742b576d58e208e0d6
+    m_Address: Assets/Art/Top Down/Character/Right - Walking/Right - Walking_007.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 21f64d7a0c4f664488b1c287f3f39f85
+    m_Address: Assets/Art/Top Down/Character/Right - Walking/Right - Walking_008.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3e225fc1e94b6a0479473f105a5ba482
+    m_Address: Assets/Art/Top Down/Character/Right - Walking/Right - Walking_009.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1d395f0a4919f0849ae6d8c8dd561751
+    m_Address: Assets/Art/Top Down/Character/Right - Walking/Right - Walking_010.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d0c59f2b663b1104c99e162504b4d05a
+    m_Address: Assets/Art/Top Down/Character/Right - Walking/Right - Walking_011.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 88f222752178f9a46be9868f2222dff0
+    m_Address: Assets/Art/Top Down/Character/Right - Walking/Right - Walking_012.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 37fcb7ed038aa6946a1e77600d9869bd
+    m_Address: Assets/Art/Top Down/Character/Right - Walking/Right - Walking_013.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ac6e1c792692b9b4b8c96655d86e88b4
+    m_Address: Assets/Art/Top Down/Character/Right - Walking/Right - Walking_014.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 21d1fcd4d280f2241b8729346eb9818a
+    m_Address: Assets/Art/Top Down/Character/Right - Walking/Right - Walking_015.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4a4214610f3d4414c910d00dc50d66ac
+    m_Address: Assets/Art/Top Down/Character/Right - Walking/Right - Walking_016.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4df62af98d697214796e2c47ad494462
+    m_Address: Assets/Art/Top Down/Character/Right - Walking/Right - Walking_017.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 158c721a18c391f448f340ba60583195, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 0dfe7bad211a77a45806350b6e513c68, type: 2}
+    - {fileID: 11400000, guid: cc8d29c5e20a8824391b740102aee9c1, type: 2}

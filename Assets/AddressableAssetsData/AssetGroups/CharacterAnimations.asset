@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: CharacterAnimations
+  m_EditorClassIdentifier: 
+  m_GroupName: CharacterAnimations
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 689dde8031c274b4881925acf6ea327c
+  m_SerializeEntries:
+  - m_GUID: 4782925fecb8e3b479daadb2d19ef952
+    m_Address: Assets/_Pool Party/Animation/Animations/Back - Idle.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7c1856fb6baae054eb401198b9aba37a
+    m_Address: Assets/_Pool Party/Animation/Animations/Back - Walk.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3f2470553328c72479eb19f0c8348cd9
+    m_Address: Assets/_Pool Party/Animation/Animations/Front - Idle.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fe09862cf636ffc439122eb2440f5e49
+    m_Address: Assets/_Pool Party/Animation/Animations/Front - Walk.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4f7afebcb9e8c2648bda06f40236b168
+    m_Address: Assets/_Pool Party/Animation/Animations/Left - Idle.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8eb576df11bd7f345b3dc2751f3c50f3
+    m_Address: Assets/_Pool Party/Animation/Animations/Left - Walk.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 45ca05e314878514db07ccbe199a9d7e
+    m_Address: Assets/_Pool Party/Animation/Animations/Right - Idle.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 63300fdffe3f6e944a65f2cf8d8772f8
+    m_Address: Assets/_Pool Party/Animation/Animations/Right - Walk.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b6224604ffd7edc4aaf72d4f4349fc5f
+    m_Address: Assets/_Pool Party/Animation/Controllers/Character Base.controller
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 158c721a18c391f448f340ba60583195, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: e6684efc8d3224a40ae071612cb4f283, type: 2}
+    - {fileID: 11400000, guid: d5a5964437258da4384d7032790f8d06, type: 2}

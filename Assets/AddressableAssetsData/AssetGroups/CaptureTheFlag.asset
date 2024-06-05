@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: CaptureTheFlag
+  m_EditorClassIdentifier: 
+  m_GroupName: CaptureTheFlag
+  m_Data:
+    m_SerializedData: []
+  m_GUID: ef4a03a5932c2ec4abe7f4083393e573
+  m_SerializeEntries:
+  - m_GUID: fbb9a51641cbf004591597718297e306
+    m_Address: Assets/_Pool Party/Prefabs/Characters/CTF Blue Team Avatar.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3172d9b846f26fa4abade99200b02926
+    m_Address: Assets/_Pool Party/Prefabs/Characters/CTF Green Team Avatar.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 158c721a18c391f448f340ba60583195, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: a37d7c1d387896d4f8b406fc7e659c6d, type: 2}
+    - {fileID: 11400000, guid: b159a894dc88bfa41b3cbe05c2376cfb, type: 2}
